@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello Human,
 
-<!--
-**HarcourtHamsa/HarcourtHamsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hamsa, a Software Engineer from the south side of Nigeria 🇳🇬 with a strong passion for React, React Native and the JavaScript ecosystem at large.
+I love to learn and share as I go, this means i write technical content whenever I can. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I am always interested in fun projects and activities. You can ask me about React, React Native and Technical Writing.
+
+
+ 📫 How to reach me: 
+ - [Twitter](https://twitter.com/harcourt_hamsa)
+ -  [Medium](https://link-url-here.org)
+ -  [LinkedIn](https://www.linkedin.com/in/harcourt-o-hamsa-2b10131b6/)
