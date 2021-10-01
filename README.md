@@ -1,4 +1,4 @@
-# Hello Human,
+## Hey There 🤚,
 
 I'm Hamsa, a Software Engineer from the south side of Nigeria 🇳🇬 with a strong passion for React, React Native and the JavaScript ecosystem at large.
 I love to learn and share as I go, this means i write technical content whenever I can. 
@@ -11,3 +11,5 @@ I love to learn and share as I go, this means i write technical content whenever
  - [Twitter](https://twitter.com/harcourt_hamsa)
  -  [Medium](https://link-url-here.org)
  -  [LinkedIn](https://www.linkedin.com/in/harcourt-o-hamsa-2b10131b6/)
+
+Happy Coding :atom:
