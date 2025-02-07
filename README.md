@@ -1,6 +1,6 @@
 # Hamsa Harcourt
 
-👋 Hi there! I'm **Hamsa Harcourt**, a **Backend Engineer** with a strong focus on building scalable, secure, and efficient systems. I specialize in optimizing backend infrastructure, implementing robust APIs, and leveraging cloud technologies to deliver high-performance solutions.
+👋 Hi there! I'm **Hamsa Harcourt**, a **Backend Engineer** with a knack for building scalable, secure, and efficient systems. I specialize in optimizing backend infrastructure, designing robust APIs, and leveraging cloud technologies to deliver high-performance solutions. But don’t be surprised if you catch me tinkering with a mobile app or diving into the latest tech trend—I’m insatiably curious and love exploring new tools and frameworks!
 
 ---
 
