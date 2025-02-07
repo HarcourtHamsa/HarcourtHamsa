@@ -6,11 +6,10 @@
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages**: Python, Java, Node.js, Go
-- **Backend Frameworks**: Django, Flask, Express.js, Spring Boot
+- **Programming Languages**: Rust, Node.js
+- **Backend Frameworks**: Nest.js, Express.js,
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redis
-- **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD pipelines
-- **APIs & Protocols**: REST, GraphQL, WebSockets, gRPC
+- **Cloud & DevOps**: AWS, Docker, CI/CD pipelines
 - **System Design**: Microservices, Distributed Systems, Event-Driven Architecture
 - **Blockchain**: Smart Contracts, Decentralized Storage (IPFS), Web3
 
